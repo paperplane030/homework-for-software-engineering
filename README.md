@@ -1,2 +1,3 @@
 # homework5
-read me plz ~ 
+homework for software engineering 
+Date : May20,2016
